@@ -70,14 +70,14 @@ body {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
-	padding: 11rem 0;
+	align-items: center;
+	padding: 9.5rem 0;
 
 	gap: 4rem;
 }
 
 .hero-image {
 	width: 196px;
-	height: 268px;
 }
 
 .hero-pref { color: #AE57F1; }
